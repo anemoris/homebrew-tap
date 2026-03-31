@@ -1,8 +1,8 @@
 class CodexSwitch < Formula
   desc "Manage multiple Codex accounts with isolated CODEX_HOME directories"
   homepage "https://github.com/anemoris/codex-switch"
-  url "https://github.com/anemoris/codex-switch/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "c18167b36656ab61668823f8aaa11d5496eac69a032832edb99b56436153c670"
+  url "https://github.com/anemoris/codex-switch/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "d694d957a76776d0aaa6e56b631f96e18dc2758fe9da79113a4dd2efb57fc534"
   license "MIT"
 
   depends_on "go" => :build
